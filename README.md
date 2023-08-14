@@ -1,7 +1,7 @@
 # SSCP Project 5: Computational prediction of cardiac electropharmacology - how much does the model matter?
 Compare features of cardiomyocyte action potential computational models between animals and model lineages.
 
-J Dawson*, A Gams*, I Rajen*, AM Soltisz*, AG Edwards. (2022). Computational Prediction of Cardiac Electropharmacology - How Much Does the Model Matter?. In: McCabe, K.J. (eds) Computational Physiology. Simula SpringerBriefs on Computing (vol 12), 55-62. Springer, Cham. [doi:10.1007/978-3-031-05164-7_5.](https://link.springer.com/chapter/10.1007/978-3-031-05164-7_5)
+John Dawson*, Anna Gams*, Ivan Rajen*, Andrew M Soltisz*, Andrew G Edwards. (2022). Computational Prediction of Cardiac Electropharmacology - How Much Does the Model Matter?. In: McCabe, K.J. (eds) Computational Physiology. Simula SpringerBriefs on Computing (vol 12), 55-62. Springer, Cham. [doi:10.1007/978-3-031-05164-7_5.](https://link.springer.com/chapter/10.1007/978-3-031-05164-7_5)
 
 Problem delivered: June 3, 2021
 
